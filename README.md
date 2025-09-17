@@ -1,2 +1,0 @@
-# reactproject
-frontend project
